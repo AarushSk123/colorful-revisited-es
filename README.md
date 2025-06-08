@@ -1,5 +1,5 @@
-# Colorful (Revisited) for ES-DE
-This is port of the Colorful theme (originally by [viking](https://forums.launchbox-app.com/profile/70421-viking/) & [faeran](https://forums.launchbox-app.com/profile/76940-faeran/)) from Launchbox to [ES-DE](https://es-de.org/) v2.x
+# Colorful (Revisited) for ROCKNIX/BatoceraV41
+This is port of the Colorful theme (originally by viking & faeran) from Launchbox to distributions that use this fork of EmulationStation. Specifically Batocera (v40 and above), Knulli, RockNIX and RetroBat
 
 **Most of the artwork and layouts are designed and created by viking & faeran.  I mainly translated things into the theming engine used by ES-DE and then added artwork for systems that weren't originally part of that theme (see "Credits" below for more details). The original version of the theme can be found [here](https://forums.launchbox-app.com/files/file/2081-colorful-bigbox-theme)**
 
@@ -26,6 +26,7 @@ This is port of the Colorful theme (originally by [viking](https://forums.launch
 - EasyRPG artwork originally by [SeraphCircle](https://twitter.com/SeraphCircle)
 - Doom artwork originally by [azakachi-rd-17](https://www.deviantart.com/azakachi-rd-17)
 - Navigation sound effects were sourced from [SteamOS](https://store.steampowered.com/steamos)
+- Original themes on ES-DE by [anthonycaccese](https://github.com/anthonycaccese/colorful-revisited-es-de)
 
 ## **License**
 Creative Commons CC-BY-NC-SA - https://creativecommons.org/licenses/by-nc-sa/2.0/
