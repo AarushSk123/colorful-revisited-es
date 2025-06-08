@@ -1,4 +1,4 @@
-# Colorful (Revisited) for ROCKNIX/BatoceraV41
+# Colorful (Revisited) for EmulationStation
 This is port of the Colorful theme (originally by viking & faeran) from Launchbox to distributions that use this fork of EmulationStation. Specifically Batocera (v40 and above), Knulli, RockNIX and RetroBat
 
 **Most of the artwork and layouts are designed and created by viking & faeran.  I mainly translated things into the theming engine used by ES-DE and then added artwork for systems that weren't originally part of that theme (see "Credits" below for more details). The original version of the theme can be found [here](https://forums.launchbox-app.com/files/file/2081-colorful-bigbox-theme)**
