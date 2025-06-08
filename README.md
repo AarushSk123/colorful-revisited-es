@@ -4,11 +4,11 @@ This is port of the Colorful theme (originally by viking & faeran) from Launchbo
 **Most of the artwork and layouts are designed and created by viking & faeran.  I mainly translated things into the theming engine used by ES-DE and then added artwork for systems that weren't originally part of that theme (see "Credits" below for more details). The original version of the theme can be found [here](https://forums.launchbox-app.com/files/file/2081-colorful-bigbox-theme)**
 
 ## Changes Made
-- Translated and rewrote all Launchbox specific aspects to make the theme compatible with ES-DE v2.x
-- Updated system image names to match the standard used by ES-DE
-- Added systems that are supported by ES-DE but not the original launchbox set
-- Created images & color schemes for additional systems supported by ES-DE
-- Added support for ES-DE capabilities such as badges
+- Translated and rewrote all Launchbox specific aspects to make the theme compatible with Batocera, RetroBat & ROCKNIX
+- Updated system image names to match the standard used by Batocera, RetroBat & ROCKNIX
+- Added systems that are supported by Batocera, RetroBat & ROCKNIX but not the original launchbox set
+- Created images & color schemes for additional systems supported by Batocera, RetroBat & ROCKNIX
+- Added support for Batocera, RetroBat & ROCKNIX capabilities such as badges
 - Embedded the ES-DE [system-metadata](https://gitlab.com/es-de/themes/system-metadata) repository to power system description, release year and color details
 
 ## **Preview**
@@ -18,6 +18,7 @@ This is port of the Colorful theme (originally by viking & faeran) from Launchbo
 | <img alt="Screenshot 2023-03-07 at 12 24 11 AM" src="https://user-images.githubusercontent.com/1454947/223330523-c3cff969-f779-435f-820a-437eefe9ad4a.png"> | <img alt="Screenshot 2023-03-07 at 12 24 04 AM" src="https://user-images.githubusercontent.com/1454947/223330547-e191b8e8-6feb-4ff9-a097-b3010db2e3a1.png"> |
 
 ## **Credit**
+- Original themes on ES-DE by [anthonycaccese](https://github.com/anthonycaccese/colorful-revisited-es-de)
 - All layouts were designed and created by [viking](https://forums.launchbox-app.com/profile/70421-viking/) & [faeran](https://forums.launchbox-app.com/files/file/2081-colorful-bigbox-theme)
 - Most system artwork originally created by [viking](https://forums.launchbox-app.com/profile/70421-viking/)
 - Some system artwork was sourced from [ckau-book](https://github.com/CkauNui/ckau-book/tree/master) (specifically systems that are not covered by the original colorful set)
@@ -26,7 +27,6 @@ This is port of the Colorful theme (originally by viking & faeran) from Launchbo
 - EasyRPG artwork originally by [SeraphCircle](https://twitter.com/SeraphCircle)
 - Doom artwork originally by [azakachi-rd-17](https://www.deviantart.com/azakachi-rd-17)
 - Navigation sound effects were sourced from [SteamOS](https://store.steampowered.com/steamos)
-- Original themes on ES-DE by [anthonycaccese](https://github.com/anthonycaccese/colorful-revisited-es-de)
 
 ## **License**
 Creative Commons CC-BY-NC-SA - https://creativecommons.org/licenses/by-nc-sa/2.0/
